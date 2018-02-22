@@ -5,6 +5,16 @@ body {
   color: #444444;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
+em.fa.fa-envelope {
+    color: #5ddca4;
+}
+
+
+em.fa.fa-bell {
+    color: #5bdda4;
+}
+
+
 p {
   color: #777; }
 
@@ -311,7 +321,7 @@ a.label:hover, a.label:focus {
   background-color: #8ad919; }
 
 .label-info {
-  background-color: #30a5ff; }
+  background-color: #000; }
 
 .label-info[href]:hover, .label-info[href]:focus {
   background-color: #30a5ff; }
@@ -323,7 +333,7 @@ a.label:hover, a.label:focus {
   background-color: #ec971f; }
 
 .label-danger {
-  background-color: #f9243f; }
+  background-color: #000; }
 
 .label-danger[href]:hover, .label-danger[href]:focus {
   background-color: #f9243f; }
