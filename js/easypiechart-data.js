@@ -8,20 +8,20 @@ $(function() {
 $(function() {
     $('#easypiechart-orange').easyPieChart({
         scaleColor: false,
-        barColor: '#ffb53e'
+        barColor: '#1ebfae'
     });
 });
 
 $(function() {
     $('#easypiechart-red').easyPieChart({
         scaleColor: false,
-        barColor: '#f9243f'
+        barColor: '#1ebfae'
     });
 });
 
 $(function() {
    $('#easypiechart-blue').easyPieChart({
        scaleColor: false,
-       barColor: '#30a5ff'
+       barColor: '#1ebfae'
    });
 });

@@ -51,13 +51,13 @@ var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 	var pieData = [
 			{
 				value: 300,
-				color:"#30a5ff",
+				color:"#1ebfae",
 				highlight: "#62b9fb",
 				label: "Blue"
 			},
 			{
 				value: 50,
-				color: "#ffb53e",
+				color: "#1ebfae",
 				highlight: "#fac878",
 				label: "Orange"
 			},
@@ -69,7 +69,7 @@ var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 			},
 			{
 				value: 120,
-				color: "#f9243f",
+				color: "#1ebfae",
 				highlight: "#f6495f",
 				label: "Red"
 			}
@@ -79,7 +79,7 @@ var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 	var doughnutData = [
 				{
 					value: 300,
-					color:"#30a5ff",
+					color:"#1ebfae",
 					highlight: "#62b9fb",
 					label: "Blue"
 				},
