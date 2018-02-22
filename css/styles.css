@@ -738,7 +738,9 @@ a.label:hover, a.label:focus {
 
 .navbar {
   border: 0; }
-
+.navbar img {
+    width:200px;
+}
 .navbar input {
   border: 0;
   background: #444;
