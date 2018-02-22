@@ -5,9 +5,9 @@ var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 		datasets : [
 			{
 				label: "My First dataset",
-				fillColor : "rgba(30, 191, 174, 0.1)",
-				strokeColor : "rgba(30, 191, 174, 0.1)",
-				pointColor : "rgba(30, 191, 174, 0.1)",
+				fillColor : "rgba(220,220,220,0.2)",
+				strokeColor : "rgba(220,220,220,1)",
+				pointColor : "rgba(220,220,220,1)",
 				pointStrokeColor : "#fff",
 				pointHighlightFill : "#fff",
 				pointHighlightStroke : "rgba(220,220,220,1)",
@@ -15,9 +15,9 @@ var randomScalingFactor = function(){ return Math.round(Math.random()*1000)};
 			},
 			{
 				label: "My Second dataset",
-				fillColor : "rgba(30, 191, 174, 0.3)",
-				strokeColor : "rgba(30, 191, 174, 0.3)",
-				pointColor : "rgba(30, 191, 174, 0.3)",
+				fillColor : "rgba(48, 164, 255, 0.2)",
+				strokeColor : "rgba(48, 164, 255, 1)",
+				pointColor : "rgba(48, 164, 255, 1)",
 				pointStrokeColor : "#fff",
 				pointHighlightFill : "#fff",
 				pointHighlightStroke : "rgba(48, 164, 255, 1)",
