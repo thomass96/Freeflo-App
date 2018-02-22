@@ -11,7 +11,7 @@ em.fa.fa-envelope {
 }
 
 .small-logo-image{
-    width: 150px;
+    width: 120px;
 }
  
 em.fa.fa-bell {
@@ -127,7 +127,7 @@ input.form-control {
   background: rgba(255, 255, 255, 0.05); }
 
 .icon-bar {
-  background: #fff; }
+  background: #1edfae; }
 
 .dropdown {
   background: rgba(255, 255, 255, 0.1);
