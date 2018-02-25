@@ -25,7 +25,10 @@ em.fa.fa-bell {
     height:40px;
 }
 p {
-  color: #777; }
+  color: #777; 
+  margin-left: 15px;
+
+}
 
 a, a:hover, a:focus {
   color: #1ebfae; }
@@ -140,8 +143,8 @@ input.form-control {
   color: #fff;
   height: 40px;
   width: 0px;
-  padding-top: 11px;
-  padding-left: 9px; }
+  padding-top: 9px;
+  padding-left: 8px; }
 
 .dropdown:hover {
   color: #fff;
@@ -588,6 +591,11 @@ a.label:hover, a.label:focus {
 
 .article .date .text-muted {
   margin-top: -5px; }
+.article h4 {
+    margin-left: 15px;
+}
+
+
 
 .timeline {
   list-style: none;
